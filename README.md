@@ -1,1 +1,1 @@
-# Ordinal-encoding-and-Onehot-encoding-
+# Ordinal encoding and Onehot encoding
